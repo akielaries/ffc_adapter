@@ -1,0 +1,20 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,0.1uf,C_0805_2012Metric,198.0,-67.0,180.0,top
+C2,0.1uf,C_0805_2012Metric,191.8,-75.8,180.0,top
+C3,10uf,C_0805_2012Metric,200.6,-84.0,-90.0,top
+C4,10uf,C_0805_2012Metric,182.25,-75.4,0.0,top
+C5,10uf,C_0805_2012Metric,200.6,-80.55,90.0,top
+C6,10uf,C_0805_2012Metric,186.0,-75.4,0.0,top
+D1,LED,LED_0603_1608Metric,174.4125,-83.4,180.0,top
+D2,LED,LED_0603_1608Metric,205.2,-80.4,0.0,top
+D3,LED,LED_0603_1608Metric,177.6,-83.2125,90.0,top
+D4,LED,LED_0603_1608Metric,197.4,-74.8,180.0,top
+J1,1v5_io,Hirose_FH12-10S-0.5SH_1x10-1MP_P0.50mm_Horizontal,203.05,-71.15,90.0,top
+J14,3v3_io,Hirose_FH12-10S-0.5SH_1x10-1MP_P0.50mm_Horizontal,177.0,-71.15,-90.0,top
+R1,2k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,174.4,-80.8,180.0,top
+R2,2k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,203.8,-78.0,0.0,top
+R3,2k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,179.8,-83.2,90.0,top
+R4,2k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,195.6125,-76.8,0.0,top
+U1,TXS0108EPW,TSSOP-20_4.4x6.5mm_P0.65mm,190.2,-70.275,0.0,top
+U2,LT1963AxST-1.5,SOT-223-3_TabPin2,194.75,-81.8,180.0,top
+U3,LT1963AxST-3.3,SOT-223-3_TabPin2,185.6,-81.8,0.0,top
